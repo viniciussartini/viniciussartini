@@ -1,5 +1,3 @@
-# Vinicius Sartini da Silva
-
 Olá, eu sou o Vinicius Sartini, sou de Juiz de Fora - MG e estou em busca da tão sonhada migração de carreira. <br>
 Atualmente trabalho como desenhista / projetista mecânico, desenvolendo peças e conjuntos mecânicos, montagens e simulações com auxílio de softwares CAD. <br>
 Iniciei neste ano de 2024 a graduação de análise e desenvolvimento de sistemas na PUC-MG. Faço também o curso de desenvolvimento fullstack Java na EBAC.
@@ -16,7 +14,7 @@ Iniciei neste ano de 2024 a graduação de análise e desenvolvimento de sistema
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciussartini&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussartini/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciussartini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussartini/)
 <!--
 **viniciussartini/viniciussartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
