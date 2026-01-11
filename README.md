@@ -12,10 +12,6 @@ Iniciei em 2024 a graduação de análise e desenvolvimento de sistemas na PUC-M
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](#) 
 
-## Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussartini&layout=compact)]
-
 ## Conecte-se comigo
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/viniciussartini/)
