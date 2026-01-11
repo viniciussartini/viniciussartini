@@ -14,7 +14,7 @@ Iniciei em 2024 a graduação de análise e desenvolvimento de sistemas na PUC-M
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussartini&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussartini&layout=compact)]
 
 ## Conecte-se comigo
 
